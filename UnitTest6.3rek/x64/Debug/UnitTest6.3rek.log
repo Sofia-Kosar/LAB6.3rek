@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.3rek.cpp
+D:\programyvanya\LAB6.3pek\LAB6.3pek\LAB6.3pek.cpp(11,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\programyvanya\LAB6.3pek\x64\Debug\UnitTest6.3rek.lib and object D:\programyvanya\LAB6.3pek\x64\Debug\UnitTest6.3rek.exp
+  UnitTest6.3rek.vcxproj -> D:\programyvanya\LAB6.3pek\x64\Debug\UnitTest6.3rek.dll
